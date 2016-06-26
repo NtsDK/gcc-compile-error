@@ -6,4 +6,4 @@ tests/*.o
 tests/*.*~
 tests/*.log
 build/*
-
+tests/*tests
