@@ -1,0 +1,9 @@
+Makefile~
+.gitignore~
+src/*.o
+src/*.*~
+tests/*.o
+tests/*.*~
+tests/*.log
+build/*
+
